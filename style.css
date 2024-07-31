@@ -12,7 +12,7 @@ h1, p {
   margin: 0 !important;
 }
 
-.banner {
+body {
   background: url(agro\ banner\ by\ photopea.jpg);
   background-repeat: no-repeat;
   background-size: cover;
