@@ -22,8 +22,8 @@ h1, p {
 }
 
 .banner .container {
-  bottom: 10%;
-  left: 5%;
+  bottom: 5%;
+  left: 0;
 }
 
 .banner h1 {
@@ -142,12 +142,7 @@ footer hr {
     --big-text: 1.1rem;
     --text: 1rem;
   }
-
-  .banner .container {
-    bottom: 8%;
-    left: 1%;
-  }
-
+  
   .row-gap-3 {
     row-gap: 0.6rem!important;
   }
